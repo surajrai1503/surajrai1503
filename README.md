@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi, I'm Suraj , a student who is passionate to be AI Engineer , studying in bhubaneshwar,india<br><br>🤖building projects in Artificial Intelligence and Machine Learning.<br><br>🚀I'm particularly interested in Generative AI, Computer Vision, and Large Language Models (LLMs),<br>working with Python and have knowledge of C, and Java.<br><br>🧠I enjoy turning ideas into practical AI solutions and continuously exploring how intelligent systems can solve real-world problems.<br><br>💡I find the most exciting part of AI when it removes friction between idea and execution.
+👋Hi, I'm Suraj , a student who is passionate to be AI Engineer , studying in Bhubaneshwar,india<br><br>🤖building projects in Artificial Intelligence and Machine Learning.<br><br>🚀I'm particularly interested in Generative AI, Computer Vision, and Large Language Models (LLMs),<br>working with Python and have knowledge of C, and Java.<br><br>🧠I enjoy turning ideas into practical AI solutions and continuously exploring how intelligent systems can solve real-world problems.<br><br>💡I find the most exciting part of AI when it removes friction between idea and execution.
 
 
 ## 🌐 Socials:
