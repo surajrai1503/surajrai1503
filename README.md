@@ -21,8 +21,7 @@ I'm a passionate **AI Engineer** based in Bhubaneswar, India, dedicated to lever
 - **Computer Vision** — Advanced image processing and analysis
 - **Large Language Models** — Fine-tuning and deploying state-of-the-art models
 - **AI Solutions** — Transforming complex problems into elegant implementations
-
-> 💡 *I believe the most exciting part of AI is when it removes friction between idea and execution.*
+- **I believe the most exciting part of AI is when it removes friction between idea and execution.*
 
 ---
 
